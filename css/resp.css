@@ -1,0 +1,57 @@
+.nav-list{
+    flex-direction: column;
+    
+}
+.navbar{
+    height: 447px;
+    flex-direction: column;
+    transition: all 0.8s ease-out;
+    border:2px solid grey
+}
+.right-nav{
+    text-align: center;
+    flex-direction: column;
+}
+.nav-list li{
+    margin:30px;
+}
+#search{
+    width:100%;
+}
+.burger{
+    display:block;
+    padding-top:8px;
+
+}
+.h-nav{
+    height: 84px;
+
+    
+}
+.v-class{
+    opacity:0;
+}
+.section{
+    flex-direction:column-reverse;
+    padding:10px;
+}
+.box-main{
+    display:flex;
+    flex-direction: column;
+    height:100vh;
+}
+.text-small{
+    text-align: center;
+
+}
+.text-big{
+    text-align: center;
+
+}
+.buttons{
+    text-align: center;
+
+}
+.paras{
+    padding:0;
+}
